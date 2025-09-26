@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+boto3
+ocrmypdf
+PyPDF2
+langchain
+langchain-google-genai
+python-dotenv
+pytz
